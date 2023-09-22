@@ -1,0 +1,9 @@
+﻿  Structs ex1.cpp
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Structures\Structs ex1.cpp(77,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Structures\Structs ex1.cpp(201,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Structures\Structs ex1.cpp(214,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Structures\Structs ex1.cpp(218,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Structures\Structs ex1.cpp(259,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Structures\Structs ex1.cpp(268,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Structures\Structs ex1.cpp(272,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Structures.vcxproj -> C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\Structures\Debug\Structures.exe
